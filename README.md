@@ -11,7 +11,7 @@ Our goal is to create an intelligent system capable of classifying resumes based
 
 Our project relies on several essential libraries and tools:
 
-- ```pandas```: This library is indispensable for data manipulation and analysis, providing powerful data structures and tools for working with structured data.
+- ```pandas```
 - ```numpy```: NumPy is the fundamental package for scientific computing in Python, providing support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
 - ```matplotlib.pyplot```: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. We specifically import the pyplot module for creating plots and charts.
 - ```seaborn```: Seaborn is a statistical data visualization library built on top of Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
